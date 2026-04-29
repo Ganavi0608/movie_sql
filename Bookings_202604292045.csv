@@ -1,0 +1,5 @@
+"booking_id","show_id","total","payment_status"
+1,1,350,CONFIRMED
+2,2,250,CONFIRMED
+3,1,400,CONFIRMED
+4,2,300,CONFIRMED
